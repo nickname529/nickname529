@@ -52,6 +52,21 @@ Development has progressed from records and a 3D viewer to analysis tools, sourc
 
 Through undergraduate research, I explore research software and visualization. **RATRO** is an AI-assisted prototype for exploring movement. Reference-motion visualization is distinct from scientific validation; it is not presented as a validated anatomical or physical digital twin. Research repositories and materials remain private.
 
+## 기여할 수 있는 일 / What I can contribute
+
+- **이야기와 기획을 구체화합니다.** 인물·장면·세계관의 연결을 정리하고, 선택의 이유가 드러나는 기획 자료를 만듭니다.
+- **아이디어를 검토 가능한 도구로 만듭니다.** AI를 활용해 연구용 화면과 분석 기능을 구현하고, 개발 과정과 아직 검증하지 못한 부분을 기록합니다.
+- **좋은 결과뿐 아니라 한계도 설명합니다.** 공개 분석에서 오탐, 누락, 시간에 따른 성능 변화까지 살펴 판단 근거를 남깁니다.
+
+I bring narrative structure, AI-assisted prototyping and transparent evaluation to content/service planning, research tools and data-driven projects. Evidence is linked above; creative work and research validation are ongoing.
+
+## 그 밖의 경험 / Additional experience
+
+- **창업 지원 프로그램 선정·참여:** 2026년 1학기 연세대학교 미래캠퍼스 의료 AI 초기 창업 지원 프로그램. 선정과 참여 이력이며, 투자 유치나 사업화·임상 검증 완료를 뜻하지 않습니다.
+- **군 복무:** 대한민국 해군 소속 의무병으로 해병대 부대에서 복무했습니다.
+
+Selected for and participated in a medical-AI early-stage startup support program at Yonsei University MIRAE Campus in the first semester of 2026. Served as a Republic of Korea Navy medical corpsman assigned to a Marine Corps unit.
+
 ## 작업 방식 / How I work
 
 - 문제와 검토 기준을 먼저 정하고, 결과와 해석을 구분합니다.
