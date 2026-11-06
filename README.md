@@ -11,12 +11,16 @@ I study biomedical engineering and explore fiction, game concepts, research tool
 
 **빠르게 살펴보기:** [창작·기획](https://portfolio.webbe-b.com/?lang=ko#creative-practice) → [RATRO 개발 과정](https://portfolio.webbe-b.com/?lang=ko#ratro-development) → 아래 공개 분석의 결과·검증 기록
 
+**이 페이지 바로가기 / On this page:** [공개 프로젝트 / Public work](#profile-public-work) · [연구와 개발 / Research](#profile-research) · [작업 방식 / How I work](#profile-method)
+
 ## 창작과 기획 / Narrative & creative practice
 
 - **장편소설 기획·개고:** 인물과 장면이 전체 흐름에 맞는지, 설정에 모순이 없는지 살피며 원고를 고칩니다. 시놉시스와 작품 소개 등 투고 자료도 준비합니다. AI의 도움을 받은 부분과 제가 직접 선택하고 고친 부분을 구분합니다. 진행 중인 작업이며 출판·계약·외부 감수 완료를 성과로 내세우지 않습니다.
 - **게임 콘셉트·세계관 설계:** 플레이 방식과 이야기·세계관이 어우러지도록 기획합니다. 현재 기획 단계의 작업이며, 구현하거나 정식 출시한 게임으로 소개하지 않습니다.
 
 I work on long-form fiction planning and revision, narrative consistency, and submission materials, alongside game concepts and worldbuilding. AI-assisted drafting and review are distinct from human decisions and revision. These are works in progress, not claims of publication, completed external review or released games. Unpublished manuscripts remain private.
+
+<a name="profile-public-work"></a>
 
 ## 공개 프로젝트 / Selected public work
 
@@ -39,6 +43,8 @@ A reproducible study of imbalanced classification on public manufacturing data. 
 A chronological evaluation of limited review capacity. Reviewing the top **62 of 314 samples captured 3 of 17 failures**, below the equal-capacity random expectation of **3.36**. The value is in a transparent evaluation and its limits; operational benefit has not been established.
 
 [결과표 / Results](https://github.com/nickname529/semiconductor-quality-decision-lab/blob/main/results/baseline/decision_metrics.csv) · [분석 규칙 / Protocol](https://github.com/nickname529/semiconductor-quality-decision-lab/blob/main/docs/ANALYSIS_PROTOCOL.md) · [AI 사용 기록 / AI usage](https://github.com/nickname529/semiconductor-quality-decision-lab/blob/main/docs/AI_USAGE.md)
+
+<a name="profile-research"></a>
 
 ## 연구와 개발 / Research & development
 
@@ -66,6 +72,8 @@ I bring narrative structure, AI-assisted prototyping and transparent evaluation 
 - **군 복무:** 대한민국 해군 소속 의무병으로 해병대 부대에서 복무했습니다.
 
 Selected for and participated in a medical-AI early-stage startup support program at Yonsei University MIRAE Campus in the first semester of 2026. Served as a Republic of Korea Navy medical corpsman assigned to a Marine Corps unit.
+
+<a name="profile-method"></a>
 
 ## 작업 방식 / How I work
 
